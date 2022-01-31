@@ -1,0 +1,5 @@
+# compiled binaries
+*.out
+
+# backup or duplicate source files
+*.backup.*
